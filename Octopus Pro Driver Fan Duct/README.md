@@ -1,1 +1,1 @@
-![image](/Octopus Pro Driver Fan Duct.png)
+![image](../Octopus Pro Driver Fan Duct.png)
